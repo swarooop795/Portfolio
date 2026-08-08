@@ -1,7 +1,8 @@
-<img width="1324" height="621" alt="Screenshot 2026-05-19 222208" src="https://github.com/user-attachments/assets/b04b16fe-01ee-45a2-ae8e-7a66f637f321" />
-<img width="1327" height="477" alt="WhatsApp Image 2026-05-16 at 7 36 47 PM" src="https://github.com/user-attachments/assets/8be13a17-2455-4ed8-b440-48e8ef0bf932" />
-<img width="1324" height="612" alt="WhatsApp Image 2026-05-16 at 7 37 31 PM" src="https://github.com/user-attachments/assets/681befc7-688e-46eb-a7f8-d2b30301dd1d" />
-<img width="1318" height="613" alt="WhatsApp Image 2026-05-16 at 7 38 12 PM" src="https://github.com/user-attachments/assets/07ea287c-c53e-4fa1-babb-0a2d79b1a173" />
-<img width="1326" height="617" alt="WhatsApp Image 2026-05-16 at 7 38 51 PM" src="https://github.com/user-attachments/assets/ae86442c-5f37-4ad7-9c6c-00870f3be949" />
+<img width="1346" height="632" alt="Screenshot 2026-08-08 170835" src="https://github.com/user-attachments/assets/d056dd91-3b4f-4727-8601-87e5de7b8a04" />
+<img width="1334" height="441" alt="Screenshot 2026-08-08 171002" src="https://github.com/user-attachments/assets/db050b5a-d8a6-4c61-a31c-8ae02839f6c1" />
+<img width="1340" height="516" alt="Screenshot 2026-08-08 171049" src="https://github.com/user-attachments/assets/90ee0aab-8278-4063-92b4-fe76b0f8020b" />
+<img width="1348" height="536" alt="Screenshot 2026-08-08 171115" src="https://github.com/user-attachments/assets/e2d14c34-c8a2-43b9-adcb-4eb8d5943685" />
+<img width="1344" height="523" alt="Screenshot 2026-08-08 171234" src="https://github.com/user-attachments/assets/a3f5dab4-17bf-4a3e-8d04-eee510b5cea7" />
+
 
 To Access this Portfolio : start index.html
